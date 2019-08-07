@@ -1,0 +1,28 @@
+{
+  "name": "next-my-invoice",
+  "version": "1.0.0",
+  "description": "Server-side PDF generation using Puppeteer, React, and Next",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "browser": {
+    "puppeteer": false,
+    "ws": false
+  },
+  "author": "Quido Hoekman",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@emotion/css": "^10.0.9",
+    "@emotion/styled": "^10.0.11",
+    "emotion-theming": "^10.0.10",
+    "html-pdf": "^2.2.0",
+    "next": "^9.0.3",
+    "puppeteer": "^1.19.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-tailwhip": "^0.0.2",
+    "ws": "^7.1.1"
+  }
+}
