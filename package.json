@@ -17,7 +17,7 @@
     "@emotion/css": "^10.0.9",
     "@emotion/styled": "^10.0.11",
     "emotion-theming": "^10.0.10",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "next": "^9.0.3",
     "puppeteer": "^1.19.0",
     "react": "^16.8.6",
